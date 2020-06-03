@@ -1,0 +1,10 @@
+[] HOMEPAGE
+  [] GitHub Link
+  [] Nav Bar
+  [] General Information
+[] ABOUT
+[] Project Directory
+[] Blog (?)
+[] ADMIN
+  [] Sign in
+  [] Sign out 
